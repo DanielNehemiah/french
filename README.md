@@ -1,10 +1,11 @@
 # french
 All things French
 
+https://www.alt-codes.net/french_alt_codes/
+
 ## Formats followed
 french_word (english_translation, french_pronunciation)
 french_word : english_transalation (french_pronunciation)
-french_word (english_transalation;french_pronunciation)
 
 ## Important links
 https://usefulshortcuts.com/alt-codes/accents-alt-codes.php
@@ -90,15 +91,13 @@ X - eeks
 Y - ee-grec
 Z - zed
 
-Generally the final syllabel is dropped in french
+
 
 apprendre le fracais pout quoi faire (why are you learning french)
 
 matin
 midi ()
 nuit (night)
-
-goodnessofG0D
 
 
 There are 5 French accents:
@@ -108,7 +107,6 @@ the accent circonflexe â, ê, î, ô, û,
 the accent grave à, è, ù
 and the accent tréma ë, ï, ü.
 
-VIF code
 
 à bientot
 à plus
@@ -200,6 +198,7 @@ il (it or he)
 ils (male or mixed group meaning they)
 elle (group of feminine)
 nous (we)
+on (we)
 elles
 
 quelles (what/which)
@@ -323,15 +322,19 @@ mon (my)
 mari (husband)
 femme (woman/wife)
 
-le fils (girl/daughter;fees)
-la fille
+le fils (boy/son, fees)
+la fille (girl/daughter)
+oncle (uncle)
+tante (aunt)
+
 une 
 
 sur (on)
 
-il y a un (there is a)
 
+il y a un (there is a)
 sont (are)
+
 
 c'est le dossier de Biju
     - ce sont les clés de Biju
@@ -425,24 +428,39 @@ cette : this (female)
 cet : this (male, voyelle)
 ces : this (plural)
 
-daniel-nehemiah.charles@socgen.com
+on : 
+
+dernier : last 
+samedi dernier : Last Saturday
 
 
 # Learning French
 ## Concepts
-In french nouns don't stand by itself, they always need an article
-for eg. gens is people but we always use des gens or la gens etc.
+- In french nouns don't stand by itself, they always need an article
+for eg. `gens` is people but we always use `des gens` or `la gens` etc.
 
-When talking about possessions, the gender of the object is used.
+- When talking about possessions, the gender of the object is used.
 Eg. ma soeur, mon frère, mes parents
 
-Many times we only conjugate the first verb, the next verb is left as is. Eg. J'aime jouer au badminton (jouer is not conjugated). Je vais rester à la maison
+- Many times we only conjugate the first verb, the next verb is left as is. Eg. J'aime jouer au badminton (jouer is not conjugated). Je vais rester à la maison
 
-The spelling looks feminine but it is masculine
+- Generally the final syllabel is dropped in french. Unless the next word starts with a vowel, then we pronounce current word and next word together
+
+- If a word starts with a vowel/vowel sound then we put l'
+Ex: for `équitation` we right `l'équitation`
 
 
-If a word starts with a vowel/vowel sound then we put l'
-Ex: for équitation we right l'équitation
+### Verbs
+Verbs can form blocks by going together with one other verb
+J'ai regardé => avoir + regarder together form a block representing the past tense of regarder
+Je suis allée => suis + allé together form a block representing the past tense of allé
+
+### Past tense
+Raconter : le passé
+
+le passé composé : 2 verbes (être ou avoir + le participe passé du verb)
+regarder => regardé
+aller => allé
 
 
 ### Combined pronouns
@@ -475,7 +493,7 @@ Eg. en Iran, en Afghanistan
 ### Plurals
 plural ends in s (les Francaises) or x (des chateaux)
     - une maison
-    - des maison
+    - des maisons
     - un château
     - des châteax
 
@@ -565,6 +583,13 @@ Meaning: young
 
 ## Proper nouns ?
 l'Allemagne : Germany
+
+## Tense
+
+Je regarde une vidéo (I watch a video)
+J'ai regardé une vidéo (I watched a video)
+
+
 
 ## Exceptions
 
